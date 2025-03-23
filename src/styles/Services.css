@@ -1,0 +1,20 @@
+.wrapperCards {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.wrapperCardsInfos {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.wrapperCardText {
+  display: grid;
+  justify-content: flex-start;
+  grid-template-columns: 20% 80%;
+}

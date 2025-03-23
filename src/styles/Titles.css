@@ -1,0 +1,31 @@
+.title {
+  color: #fff;
+  font-family: "Tinos";
+  text-align: center;
+}
+
+.title.one {
+  font-size: 4rem;
+}
+
+.title.two {
+  font-size: 24px;
+}
+
+.title.sublime {
+  border-bottom: 1px solid #fff;
+}
+
+.title.pointer {
+  cursor: pointer;
+}
+
+.text {
+  color: #fff;
+  font-family: "Poppins";
+}
+
+.text.one {
+  font-weight: 300;
+  font-size: 1rem;
+}
